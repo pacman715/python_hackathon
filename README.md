@@ -44,4 +44,4 @@ In order to allow the player to hit more than one time, I modified the code as f
 		elif choice == "s":
 			break
 ```
-Please enjoy our Python Hackathon Presentation](https://youtu.be/ddibLfuTo10)
+Please enjoy our [Python Hackathon Presentation](https://youtu.be/ddibLfuTo10)
